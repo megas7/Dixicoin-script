@@ -7,7 +7,7 @@ masternode outputs
 When prompted to enter your Gen key - press enter
 dixicoind getinfo
 dixicoind masternode status
-bytepay Masternode is up and running listening on port 51471.
+dixicoin Masternode is up and running listening on port 61150.
 Configuration file is: /root/.dixicoin/dixicoin.conf
-Start: systemctl start apollon.service
-Stop: systemctl stop apollon.service
+Start: systemctl start dixicoin.service
+Stop: systemctl stop dixicoin.service
